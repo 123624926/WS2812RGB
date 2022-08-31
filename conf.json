@@ -1,0 +1,26 @@
+{
+   "name": "code-robot",
+   "version": "1.0.3",
+   "appMainName": "walnut_coding",
+   "env": "production",
+   "logLevel": 2,
+   "mainAppPort": 4006,
+   "showDevTools": false,
+   "apiUrl": "https://api.hetao101.com",
+   "hyperchannel": "",
+   "mainSourceName": "#editor",
+   "defaultWindowOptions": {
+      "width": 800,
+      "height": 600,
+      "position": "center",
+      "fullscreen": false,
+      "resizable": true,
+      "frame": false
+   },
+   "webviewChannelUrl": "",
+   "__USER_CACHE_DATA": {
+      "minorUpdatedResource": {}
+   },
+   "SOURCEDIR_NAME": "catch_resources",
+   "updatedPackageJsonSpace": 3
+}
